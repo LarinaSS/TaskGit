@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <link href="styles/sit.css" rel="stylesheet">
     <script src="scripts/form.js"></script>
-    <title>Планировщик задач</title>
+    <title>Планировщик</title>
 </head>
 <body>
 <div id="content">
