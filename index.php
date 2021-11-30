@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <link href="styles/sit.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
     <script src="scripts/form.js"></script>
     <title>Планировщик задач</title>
 </head>
